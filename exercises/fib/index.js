@@ -14,5 +14,3 @@ function fib(n) {
 }
 
 module.exports = fib;
-
-console.log(fib(39))
